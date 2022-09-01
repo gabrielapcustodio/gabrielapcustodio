@@ -4,8 +4,8 @@
 🪡 Bacharela em Design-Moda </br>
 👩🏻‍💻 E estou estudando programação
 
-[![Twitter: gabrielapcstd](https://img.shields.io/twitter/follow/gabrielapcstd?style=social)](https://twitter.com/gabrielapcstd)
-[![Linkedin: gabrielapcustodio](https://img.shields.io/badge/-gabrielapcustodio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielapcustodio/)](https://www.linkedin.com/in/gabrielapcustodio/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gabrielapcstd?color=ff69b4&label=gabrielapcstd&logo=twitter&logoColor=ff69b4&style=for-the-badge)](https://twitter.com/gabrielapcstd/)
+[![LinkedIn](https://shields.io/badge/LinkedIn-gabrielapcstd-ff69b4?logo=LinkedIn&logoColor=ff69b4&style=for-the-badge)](https://www.linkedin.com/in/gabrielapcstd/)
 
 ### Sobre mim:
 
@@ -20,4 +20,4 @@
 
 Atualmente, contribuo nos repositórios da [Central DATADOC](https://github.com/datadoc-opovo) com análises para pautas jornalísticas.
 
-[![gabrielapcustodio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielapcustodio&show_icons=true&count_private=true&theme=buefy)](https://github.com/gabrielapcustodio/github-readme-stats)
+[![gabrielapcustodio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielapcustodio&show_icons=true&count_private=true&theme=buefy&title_color=ff69b4&icon_color=703cd8)](https://github.com/gabrielapcustodio/github-readme-stats)
