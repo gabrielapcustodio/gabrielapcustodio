@@ -1,11 +1,11 @@
-## Olá! Sou Gabriela Custódio <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="45" align="center"/>&nbsp;<br/> 
+## Olá! Sou Gabriela Custódio <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
 
 🗞 Sou jornalista </br>
 🪡 Bacharela em Design-Moda </br>
 👩🏻‍💻 E estou estudando programação
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gabrielapcstd?color=ff69b4&label=gabrielapcstd&logo=twitter&logoColor=ff69b4&style=for-the-badge)](https://twitter.com/gabrielapcstd/)
-[![LinkedIn](https://shields.io/badge/LinkedIn-gabrielapcstd-ff69b4?logo=LinkedIn&logoColor=ff69b4&style=for-the-badge)](https://www.linkedin.com/in/gabrielapcstd/)
+[![LinkedIn](https://shields.io/badge/LinkedIn-gabrielapcustodio-ff69b4?logo=LinkedIn&logoColor=ff69b4&style=for-the-badge)](https://www.linkedin.com/in/gabrielapcustodio/)
 
 ### Sobre mim:
 
@@ -20,4 +20,4 @@
 
 Atualmente, contribuo nos repositórios da [Central DATADOC](https://github.com/datadoc-opovo) com análises para pautas jornalísticas.
 
-[![gabrielapcustodio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielapcustodio&show_icons=true&count_private=true&theme=buefy&title_color=ff69b4&icon_color=703cd8)](https://github.com/gabrielapcustodio/github-readme-stats)
+[![gabrielapcustodio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielapcustodio&show_icons=true&count_private=true&theme=buefy&title_color=ff69b4&icon_color=703cd8)](https://github.com/gabrielapcustodio)
