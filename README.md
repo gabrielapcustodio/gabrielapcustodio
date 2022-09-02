@@ -1,8 +1,10 @@
 ## Olá! Sou Gabriela Custódio <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
 
+<img alt="Gif of a girl coding with a cat" src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e477ld3bln93ahngtklbjb6glw7x8czfeznyn8m76vq&rid=giphy.gif&ct=g" height="200" width="350" align="right"/>&nbsp;
+
 🗞 Sou jornalista </br>
 🪡 Bacharela em Design-Moda </br>
-👩🏻‍💻 E estou estudando programação
+👩🏻‍💻 E estou estudando programação </br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gabrielapcstd?color=ff69b4&label=gabrielapcstd&logo=twitter&logoColor=ff69b4&style=for-the-badge)](https://twitter.com/gabrielapcstd/)
 [![LinkedIn](https://shields.io/badge/LinkedIn-gabrielapcustodio-ff69b4?logo=LinkedIn&logoColor=ff69b4&style=for-the-badge)](https://www.linkedin.com/in/gabrielapcustodio/)
