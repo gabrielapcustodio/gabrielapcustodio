@@ -1,6 +1,6 @@
 ## Olá! Sou Gabriela Custódio <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="40" width="40" align="center"/>&nbsp;<br/> 
 
-<img alt="Gif of a girl coding with a cat" src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e477ld3bln93ahngtklbjb6glw7x8czfeznyn8m76vq&rid=giphy.gif&ct=g" height="200" width="350" align="right"/>&nbsp;
+<img alt="Gif of a girl coding with a cat" src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e477ld3bln93ahngtklbjb6glw7x8czfeznyn8m76vq&rid=giphy.gif&ct=g" align="right" style="max-width:30%; height:auto;" />&nbsp;
 
 🗞 Sou jornalista </br>
 🪡 Bacharela em Design-Moda </br>
@@ -17,6 +17,13 @@
 - 🤓 Estou fazendo o Curso de Formação Desenvolvedor Full Stack na Digital College
 - 📰 Trabalho como repórter na Central de Jornalismo de Dados do Jornal **O POVO** (DATADOC)
 - 🗓 Já fui repórter do núcleo de Cotidiano — janeiro de 2020 a março de 2022 — e do Labeta, Estúdio de Branded Content do **O POVO** — abril de 2017 a janeiro de 2020
+
+### Uso com frequência:
+<img alt="Python icon" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="45" width="45"/>&nbsp;
+
+### Estou aprendendo:
+<img alt="JavaScript icon" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="45" width="45"/>&nbsp; <img alt="HTML icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="45" width="45"/>&nbsp; <img alt="CSS icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="45" width="45"/>&nbsp;
+
 
 ### Meus commits:
 
