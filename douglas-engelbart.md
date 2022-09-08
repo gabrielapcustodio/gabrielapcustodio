@@ -22,7 +22,7 @@ Em 1963, a ARPA — projeto criado pelo governo dos EUA — financiou a constru�
 
 Esse foi o primeiro ambiente integrado com ferramentas como mouse, teleconferência em monitores partilhados, ligações por hipertexto, processador de texto, e-mail, sistemas de ajuda online e ambiente de janelas.
 
-<h3 align="center">The Mother of All Demos</h3>
+**The Mother of All Demos**
 
 [![The Mother of All Demos](https://41z6h24c86pu1h3m6x151ecm-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/engelbart-file-20180815-2903-1l8mkct-730x553.png)](https://www.youtube.com/watch?v=yJDv-zdhzMY "The Mother of All Demos")
   
