@@ -30,3 +30,5 @@
 Atualmente, contribuo nos repositórios da [Central DATADOC](https://github.com/datadoc-opovo) com análises para pautas jornalísticas.
 
 [![gabrielapcustodio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielapcustodio&show_icons=true&count_private=true&theme=buefy&title_color=ff69b4&icon_color=703cd8)](https://github.com/gabrielapcustodio)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielapcustodio&layout=compact&theme=buefy&title_color=ff69b4)](https://github.com/gabrielapcustodio/github-readme-stats)
