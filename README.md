@@ -23,6 +23,8 @@
 ### Estou aprendendo:
 <img alt="JavaScript icon" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="45" width="45"/>&nbsp; <img alt="HTML icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="45" width="45"/>&nbsp; <img alt="CSS icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="45" width="45"/>&nbsp;
 
+### Projetos:
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=ff69b4)](https://www.freecodecamp.org/gabrielacustodio)
 
 ### Meus commits:
 
